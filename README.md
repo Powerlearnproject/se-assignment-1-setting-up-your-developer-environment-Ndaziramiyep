@@ -193,7 +193,7 @@ Verify Installation:
 After the installation completes, type pip --version and press Enter to ensure pip is installed correctly.
 
 
-6. Configure a Database: MySQL
+# 6. Configure a Database: MySQL
 
 For Windows
 Download MySQL:
@@ -223,7 +223,7 @@ Verify Installation:
 Open Command Prompt.
 Run mysql -u root -p and enter your root password to access the MySQL shell.
 
-7. Set Up Development Environments and Virtualization (Optional): Docker 
+# 7. Set Up Development Environments and Virtualization (Optional): Docker 
 
 For Windows
 Download Docker Desktop:
@@ -245,7 +245,7 @@ Open Command Prompt or PowerShell.
 Run the command docker --version to verify the installation.
 Run docker run hello-world to verify that Docker can pull and run containers.
 
-8. Explore Extensions and Plugins: Visual Studio Code
+# 8. Explore Extensions and Plugins: Visual Studio Code
 
 Step 1: Open Extensions View
 Launch Visual Studio Code:
@@ -303,6 +303,9 @@ Code Formatting:
 Prettier: esbenp.prettier-vscode
 
 <h5><i>End of answers!</i></h5>
+
+
+
 
 
 
