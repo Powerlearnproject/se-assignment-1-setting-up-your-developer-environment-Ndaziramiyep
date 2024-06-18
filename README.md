@@ -105,7 +105,7 @@ Complete Installation:
 Click “Install” to begin the installation process.
 Once the installation is complete, click “Finish” to launch Visual Studio Code.
 
-3. Set Up Version Control System: Git and GitHub
+# 3. Set Up Version Control System: Git and GitHub
 Install Git:
 
 Download Git from git-scm.com and follow the installation instructions.
@@ -115,8 +115,8 @@ Configure Git:
 Open a command prompt or Git Bash and configure your Git identity:
 arduino
 Copy code
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git config --global user.name 
+git config --global user.email
 Create a GitHub Account:
 
 Go to GitHub and create an account.
